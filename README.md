@@ -20,4 +20,6 @@
 [Python para investimentos](https://www.youtube.com/playlist?list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy)    
 [Lives de Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3K1hb7XgkGPb4S9YNIeHsPk)    
 [Python e Django](https://www.youtube.com/playlist?list=PL8GFhcuc_fW4cxdkRtWIlln1DQ3CZwQen)   
-[Python POO](https://www.youtube.com/playlist?list=PL8GFhcuc_fW4cxdkRtWIlln1DQ3CZwQen)   
+[Python POO](https://www.youtube.com/playlist?list=PL8GFhcuc_fW4cxdkRtWIlln1DQ3CZwQen)
+## Markdow
+[Readme](https://dev.to/dianaops/como-escrever-um-readme-md-sensacional-no-github-4509)
