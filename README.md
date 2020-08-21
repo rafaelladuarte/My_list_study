@@ -29,3 +29,10 @@
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Dive into Deep Learning](http://d2l.ai/index.html?fbclid=IwAR0f2kaM713Qdf2vzuYAVeQktxd0tfIKmDZ_Hj3RtL0gKgK4pQcXK-StmlY)
+
+## Entrevista Tecnica - Stone
+- [Pagar.me](https://github.com/pagarme)
+- [Superbowleto - Nosso microsserviço de registro de boletos, por onde passam todos os boletos do Pagar.me](https://github.com/pagarme/superbowleto)
+- [TLDR - Nosso microsserviço para armazenar e mostrar recibos](https://github.com/pagarme/tldr)
+- [Pilot - A nova versão da nossa dashboard, que também está 100% open source](https://github.com/pagarme/pilot)
+- [Café com Testes - Repositório com dicas de teste e boas práticas](https://github.com/pagarme/cafe-com-testes)
