@@ -10,11 +10,6 @@
  - [Data Science](https://github.com/elladarte/My_list_study/blob/master/arquivos/Cientista_de_dados.pdf)
  - [Machine Learning Enginner](https://github.com/elladarte/My_list_study/blob/master/arquivos/engenheiro-ml.pdf)
 
+## Outros
 
-
-
-
-
-
-
-Lista de links e cursos livres
+- [Lista de links e cursos livres](https://github.com/elladarte/My_list_study/blob/master/links/README.md)
